@@ -31,8 +31,7 @@ const App: React.FC = () => {
         <div className="chart response-time-chart">
             <ResponseTimeChart data={aiData.data.response_times.day_wise} />
         </div>
-        {/* <CategoryDistributionChart data={aiData.data.category_distribution} />
-        <ResponseTimeChart data={aiData.data.response_times.day_wise} /> */}
+        
       </div>
     );
   }

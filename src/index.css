@@ -29,15 +29,18 @@ h1 {
 .chart {
   margin: 20px 0;
 }
-/* Style for CategoryDistributionChart */
+
 .category-distribution-chart {
   background-color: #e0f7fa;
   padding: 20px;
   border-radius: 8px;
 }
-/* Style for ResponseTimeChart */
+
 .response-time-chart {
   background-color: #ffecb3;
   padding: 20px;
   border-radius: 8px;
 }
+
+
+
